@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="29b717df-7d98-4cde-8d3d-6b5ad4ef1a73" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Y2IaL8NIJ7BY9yHZGbmtbya7ZQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Nikita\Desktop\AutomatDZAmazon\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.MainPage">
+    <configuration name="MainPage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomatDZAmazon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Amazon" />
+      <option name="MAIN_CLASS_NAME" value="Amazon.MainPage" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainPage.signUp" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomatDZAmazon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Amazon" />
+      <option name="MAIN_CLASS_NAME" value="Amazon.MainPage" />
+      <option name="METHOD_NAME" value="signUp" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.MainPage" />
+        <item itemvalue="TestNG.MainPage.signUp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="29b717df-7d98-4cde-8d3d-6b5ad4ef1a73" name="Default Changelist" comment="" />
+      <created>1582134324688</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582134324688</updated>
+      <workItem from="1582134327558" duration="7113000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="904" y="99" key="#Project_Structure" timestamp="1582134435797">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="904" y="99" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1582134435797" />
+    <state x="1095" y="357" width="520" height="344" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1582138416953">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1095" y="357" width="520" height="344" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1582138416953" />
+    <state width="1867" height="304" key="GridCell.Tab.0.bottom" timestamp="1582141447984">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="304" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582141447984" />
+    <state width="1867" height="304" key="GridCell.Tab.0.center" timestamp="1582141447984">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="304" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582141447984" />
+    <state width="1867" height="304" key="GridCell.Tab.0.left" timestamp="1582141447984">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="304" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582141447984" />
+    <state width="1867" height="304" key="GridCell.Tab.0.right" timestamp="1582141447984">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="304" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582141447984" />
+    <state x="755" y="96" key="Maven.ArtifactSearchDialog" timestamp="1582139273839">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="755" y="96" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582139273839" />
+    <state x="461" y="0" key="SettingsEditor" timestamp="1582134836719">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1582134836719" />
+  </component>
+</project>
